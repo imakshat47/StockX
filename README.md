@@ -6,7 +6,7 @@ Limit Order Book(Trading) in python. Maintains both buy side and sell side of Or
 ```python
 pip install -r requirements.txt
 ```
-2. Run:
+2. Open CMD in root folder and Run:
 ```python
 py main.py
 ```
