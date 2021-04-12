@@ -65,7 +65,7 @@ Currently using:
 5. Exchange 
 
 ## Output
-![image Output](data/output.png)
+![image Output](data/output_img.png)
 
 ## Future Scope
 1. Using Symbol for trading in specific stock.
