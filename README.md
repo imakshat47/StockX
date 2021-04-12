@@ -14,7 +14,7 @@ py main.py
 ## Features
 * Supports Market Order, Limit Order and Stop Order
 * Easy setup by setup walk through:
-    - Un-comment line after #Run next ? (ln 117 - 119 @ main.py)
+    - Un-comment line after #Run next ? (ln 115 - 117 @ main.py)
     ```
     _next = input("Do you want to continue? (Y/N): ")
         if(_next == 'N' or _next == 'n'):
