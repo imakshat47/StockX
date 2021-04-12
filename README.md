@@ -26,6 +26,8 @@ py main.py
     csv_data = app.extract_csv()
     -or-
     csv_data = app.extract_csv(file_path)
+
+    file_path = 'data/record.csv' or 'data/records.csv'
     ```
 
 ## Symbols Usage CSV Format
