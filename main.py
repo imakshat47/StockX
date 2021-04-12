@@ -90,7 +90,7 @@ if __name__ == '__main__':
                         # add record to _sl
                         _sl._add(_sl_price, [_price, _qty])
                 print_msg(
-                    "Stop Loss Order Added. Order will be added to Order book, once Market @ " + _exch + " hits trigger Price.")
+                    "Stop Loss Order Added. Order will be added to Order book, once Market Price @ " + _exch + " hits trigger Price.")
                 continue
 
             # For Limit Order
